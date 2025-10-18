@@ -1,4 +1,4 @@
-# Hi there, I'm Yusuf Cemal İşbuğa 👋
+# Hi there, I'm Yusuf Cemal İŞBUĞA👋
 
 ## 🧠 About Me
 
