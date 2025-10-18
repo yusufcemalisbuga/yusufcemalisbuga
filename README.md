@@ -118,7 +118,6 @@ Topics: `thermodynamics` `feasibility-study` `computational-modeling` `negative-
 - 🏆 **Peer-reviewed publications at age 18** (ECP 2025)
 - 🔬 **CERN Beamline for Schools 2023** participant (Team STANGERTÜRKİYE)
 - 📖 **800+ readers** across science communication articles
-- 🤝 **Global education network** (Prof. Dr. Ger Graus OBE, YGA Summit 2023)
 - 🌍 **Transparent science advocate** - documenting negative results prevents future waste
 - 💻 **Open-source contributor** - validated computational models for community use
 
@@ -126,16 +125,6 @@ Topics: `thermodynamics` `feasibility-study` `computational-modeling` `negative-
 
 
 
-I believe in:
-- **Interdisciplinary thinking** - Bridging physics, engineering, and cognitive science
-- **Scientific integrity** - Publishing negative results with equal rigor
-- **Transparent reporting** - "Technically feasible ≠ Commercially viable"
-- **Open science** - Sharing validated models for community benefit
-- **First-principles analysis** - Thermodynamic fundamentals trump theoretical promises
-
-My work aims to bridge theoretical understanding with practical applications, always grounding abstract models in empirical reality.
-
----
 
 ## 📊 GitHub Stats
 
@@ -151,7 +140,6 @@ My work aims to bridge theoretical understanding with practical applications, al
 
 
 
-*"The journey from particle physics to psychology reflects a coherent intellectual trajectory: from understanding physical systems to understanding the system that understands—the human mind."*
 
 ---
 
