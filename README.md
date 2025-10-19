@@ -1,5 +1,6 @@
 ![To the Moon](https://media.giphy.com/media/DnMMGxEvniha7CvASq/giphy.gif)
 
+![Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 # Hi there, I'm Yusuf Cemal İşbuğa 👋
 ![Researcher](https://img.shields.io/badge/Role-Researcher-blue)
