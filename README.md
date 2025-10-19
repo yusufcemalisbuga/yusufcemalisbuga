@@ -1,4 +1,7 @@
 # Hi there, I'm Yusuf Cemal İşbuğa 👋
+![Researcher](https://img.shields.io/badge/Role-Researcher-blue)
+![Science Communicator](https://img.shields.io/badge/Role-Science_Communicator-green)
+![Python](https://img.shields.io/badge/Language-Python-yellow)
 
 <div align="center">
 
