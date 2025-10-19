@@ -1,4 +1,4 @@
-# Hi there, I'm Yusuf Cemal İŞBUĞA👋
+# Hi there, I'm Yusuf Cemal İşbuğa 👋
 
 <div align="center">
 
@@ -347,8 +347,8 @@ I'm actively seeking collaborations in:
 
 | Year | Achievement | Impact |
 |------|-------------|--------|
-| 2025 | **Published Researcher (MDPI)** | Conference paper at age 18 |
-| 2023 | **CERN Beamline for Schools** | Selected from 172 teams worldwide |
+| 2025 | **Published Researcher (MDPI)** | Conference paper at age 19 |
+| 2023 | **CERN Beamline for Schools** |My first contact with CERN |
 | 2024 | **Science Communicator** | 800+ readers across 4+ articles |
 | 2025 | **Open-Source Contributor** | Validated simulation models public |
 
