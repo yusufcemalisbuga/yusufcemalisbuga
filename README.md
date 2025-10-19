@@ -18,8 +18,7 @@ I'm an early-stage researcher exploring the intersection of **theoretical physic
 
 #### 🔬 Theoretical Physics
 **"The Minimal Observer: Why Perfectly Passive Time Travel is Impossible, But Causally Neutral Observation May Not Be"**  
-*PhilSci Archive* (2024) 
-Topics: Quantum measurement, thermodynamics, consciousness, philosophy of physics
+
 
 #### 🚗 Sustainable Engineering
 **"Hybrid Electric-Pneumatic Vehicles: Feasibility Analysis and Practical Limitations"**  
