@@ -277,36 +277,7 @@ mindmap
 + Open Science → Sharing code, data, and methodology for community validation
 ```
 
-### 🔬 Case Study: HEPV Research Trajectory
 
-<table>
-<tr>
-<th>Stage</th>
-<th>Hypothesis</th>
-<th>Result</th>
-<th>Learning</th>
-</tr>
-<tr>
-<td><b>v1.0</b><br><sub>Pessimistic</sub></td>
-<td>Pneumatic assist during acceleration reduces battery load</td>
-<td>❌ 11% penalty<br>(0 activations)</td>
-<td>Passive strategies fail</td>
-</tr>
-<tr>
-<td><b>v3.0</b><br><sub>Optimistic</sub></td>
-<td>Optimized control thresholds enable efficiency gains</td>
-<td>⚠️ 5% improvement<br>(360 activations)</td>
-<td>Control matters, validation needed</td>
-</tr>
-<tr>
-<td><b>Next</b><br><sub>Realistic</sub></td>
-<td>Reality likely between v1.0 and v3.0</td>
-<td>🔄 Pending experimental data</td>
-<td>Simulation ≠ Reality</td>
-</tr>
-</table>
-
-**Takeaway:** *Control strategy matters as much as hardware in hybrid systems, but simulation assumptions must be validated against physical reality.*
 
 ---
 
