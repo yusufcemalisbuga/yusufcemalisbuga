@@ -3,6 +3,7 @@
 ![Science Communicator](https://img.shields.io/badge/Role-Science_Communicator-green)
 ![Python](https://img.shields.io/badge/Language-Python-yellow)
 
+
 <div align="center">
 
 ### 🔬 Researcher • 🧠 Cognitive Science Aspirant • 💻 Computational Modeler
