@@ -3,6 +3,11 @@
 ![Science Communicator](https://img.shields.io/badge/Role-Science_Communicator-green)
 ![Python](https://img.shields.io/badge/Language-Python-yellow)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+
 
 <div align="center">
 
