@@ -407,6 +407,7 @@ timeline
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
-**Last Updated:** January 2025 • **Built with:** ❤️ and ☕ • **Status:** Open to collaborations!
+**Last Updated:** January 2025 • 
+
 
 </div>
