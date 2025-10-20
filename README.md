@@ -375,9 +375,9 @@ timeline
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
-**Last Updated:** January 2025 •
+**Last Updated:** OCTOBAR 2025 •
 [![GitHub followers](https://img.shields.io/github/followers/yusufcemalisbuga?style=social)](https://github.com/yusufcemalisbuga)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yusufcisbuga?style=social)](https://twitter.com/yusufcisbuga)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Ycisbuga?style=social)](https://x.com/Ycisbuga)
 
 </div>
 ```
