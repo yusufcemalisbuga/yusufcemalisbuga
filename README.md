@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Yusuf Cemal İşbuğa
 
-**19-year-old independent researcher | Published at MDPI | CERN alumnus**
+**19-year-old independent researcher | Published at MDPI | Contestant (STRANGERS Türkiye)**
 
 *From understanding physical systems → to understanding the system that understands*
 
