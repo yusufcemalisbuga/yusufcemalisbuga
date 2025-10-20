@@ -5,7 +5,7 @@
 
 ![Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-# Hi there, I'm Yusuf Cemal İşbuğa 👋
+# Hi there, I'm Yusuf Cemal İŞBUĞA👋
 
 <div align="center">
 
@@ -119,7 +119,7 @@ Prevents future resource waste
 
 #### "The Minimal Observer: Why Perfectly Passive Time Travel is Impossible"
 
-**Status:** PhilSci Archive (2024)  
+**Status:** Very soon
 **Topics:** Quantum measurement • Thermodynamics of observation • Causality constraints
 
 **Core Argument:** Information extraction requires thermodynamic interaction, placing fundamental limits on "passive" time travel scenarios.
@@ -205,7 +205,7 @@ Prevents future resource waste
 
 | Project | Status | Next Milestone |
 |---------|--------|----------------|
-| 🧠 **Quantum Measurement & Time Travel** | Writing | Conference Q2 2025 |
+| 🧠 **Quantum Measurement & Time Travel** | Writing | Very soon|
 | 🚗 **HEPV Feasibility Analyzer** | v3.3.0 Released | Conference Oct 2025 |
 | 🧮 **Computational Framework** | Development | Neural systems expansion |
 
