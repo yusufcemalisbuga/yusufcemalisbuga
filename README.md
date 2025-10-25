@@ -98,7 +98,7 @@ Turkish platform leader
 [![ECP 2025](https://img.shields.io/badge/ECP_2025-Accepted-28a745?style=for-the-badge&logo=academia)](https://sciforum.net/paper/view/24624)
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://github.com/yusufcemalisbuga/HEPV-Feasibility-Analyzer/blob/main/LICENSE)
-[![Status](https://img.shields.io/badge/Status-v3.3.0-orange?style=for-the-badge)](https://github.com/yusufcemalisbuga/HEPV-Feasibility-Analyzer)
+[![Status](https://img.shields.io/badge/Status-v3.1.0beta-orange?style=for-the-badge)](https://github.com/yusufcemalisbuga/HEPV-Feasibility-Analyzer)
 
 </div>
 
@@ -126,7 +126,7 @@ v3.0 (2024): Optimized control strategy
 ! Result: -5% improvement (suspicious!)
 ? Red flag: Too good to be true
 
-v3.3 (2025): Physics-corrected model
+v3.1.0 beta (2025): Physics-corrected model
 + Result: +2.9% penalty (validated)
 ✓ Accepted at MDPI ECP 2025
 ✓ Aligns with real-world failures (Tata, MDI)
@@ -189,7 +189,7 @@ First rigorous thermodynamic analysis proving commercial non-viability of compre
 
 **Venue**  
 MDPI ECP 2025  
-DOI: [24624](https://sciforum.net/paper/view/24624)
+ [24624](https://sciforum.net/paper/view/24624)
 
 </td>
 </tr>
@@ -276,7 +276,7 @@ My HEPV project exemplifies transparent iteration:
 1. **Initial enthusiasm** (v1.0): "This could revolutionize transport!"
 2. **Reality check** (v2.0): Thermodynamic losses are significant
 3. **False hope** (v3.0): Optimization shows improvement → Too suspicious
-4. **Validated truth** (v3.3): Physics-corrected model confirms non-viability
+4. **Validated truth** (v3.10.0beta): Physics-corrected model confirms non-viability
 5. **Publication** (2025): Conference accepts honest negative result
 
 **Lesson:** The scientific method works when you let it. Negative results prevent wasted resources.
@@ -378,7 +378,7 @@ timeline
 │                                                             │
 │  📄 Publications: 2 (1 published, 1 in preparation)        │
 │  👥 Science Readers: 800+ across 4 major articles          │
-│  💻 Open-Source: 1 validated model (v3.3.0)                │
+│  💻 Open-Source: 1 validated model (v3.1.0 beta )          │
 │  🌐 Collaborations: CERN, international education network  │
 │  🎓 Conference Presentations: MDPI ECP 2025 (upcoming)     │
 │                                                             │
@@ -417,9 +417,9 @@ timeline
 
 | Quarter | Objective | Status |
 |---------|-----------|--------|
-| **Q1-Q2** | ✅ Complete HEPV v3.3.0 validation | ✅ Done |
-| **Q2-Q3** | 🎯 Present at MDPI ECP 2025 Conference | 🟡 Preparing |
-| **Q3** | 📚 Begin undergraduate Psychology/CogSci studies | 🟡 Enrolling |
+| **Q1-Q2** | ✅ Complete HEPV v3.1.0 beta  validation | ✅ Done |
+| **Q2-Q3** | 🎯 Present at MDPI ECP 2025 Conference | 🟢 Active |
+| **Q3** | 📚 Begin undergraduate Psychology/CogSci studies | 🟡 Preparing |
 | **Q3-Q4** | 🔬 Submit "Minimal Observer" manuscript | 🟡 Writing |
 | **Q4** | 🤝 Establish 3+ research collaborations | 🔵 Planning |
 | **Ongoing** | ✍️ Publish 2+ science communication articles | 🟢 Active |
