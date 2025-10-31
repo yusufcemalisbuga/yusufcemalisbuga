@@ -70,7 +70,7 @@ class Researcher:
 
 | 🔬 **Early Start** | 📝 **Radical Transparency** | 🌍 **Public Science** | 🤝 **Open Collaboration** |
 |:---:|:---:|:---:|:---:|
-| Peer-reviewed at 18 | I publish my failures | 800+ readers on science blog | All projects open-source |
+| Peer-reviewed at 19| I publish my failures | 800+ readers on science blog | All projects open-source |
 | CERN participant at 17 | Version history = research journey | Neuroscience & psychology outreach | MIT/Apache licenses |
 
 </div>
@@ -100,7 +100,7 @@ class Researcher:
 🔹 First-author research paper  
 🔹 Hybrid propulsion thermodynamics  
 🔹 Peer-reviewed & accepted  
-🔹 Age: 18  
+🔹 Age: 19
 
 [📖 Read Paper](https://sciforum.net/paper/view/24624)
 
