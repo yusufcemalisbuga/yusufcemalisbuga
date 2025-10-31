@@ -263,7 +263,7 @@ graph LR
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-yisbuga37%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusufcemalisbuga@gmail.com)
+[![Email](https://img.shields.io/badge/Email-yisbuga37%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yisbuga37@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yusuf_Cemal_İşbuğa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusufcemalisbuga)
 [![Twitter](https://img.shields.io/badge/Twitter-@yusufisbuga-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yusufisbuga)
 
